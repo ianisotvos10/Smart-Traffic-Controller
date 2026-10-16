@@ -1,0 +1,7 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+*.a
+*.o
+build/
